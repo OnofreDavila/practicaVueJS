@@ -1,4 +1,26 @@
 # Vue 3 + Vite
+# Formulario con validaciones y calculos
+
+## Descripcion de Proyecto
+Proyecto realizado en framework Vue.JS . 
+
+Este proyecto es un aprendizaje durante mis estudios en el instituto.
+
+Es un proyecto enfocado en el aprendizaje de vue.js.
+
+## Autor
+Onofre Davila
+
+## Contacto
+[LinkedIn] www.linkedin.com/in/onofredavila
+
+## Instalacion
+Este proyecto no necesita instalacion.
+
+## Contratacion
+Si quieres contratame puedes escribirme a mi correo Onofrej14@gmail.com para consultas.
+
+
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
